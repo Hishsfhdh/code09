@@ -7,4 +7,5 @@
 - 주요 소스 코드는 본 저장소의 `custom_marker_publisher.py` 및 `launch/rviz_advanced.launch.py`를 참조하세요.
 
 ## 3. 실행 화면
-![RViz2 Execution Screenshot](./SWSW.png)
+<img width="1213" height="832" alt="SWSW" src="https://github.com/user-attachments/assets/f6a8c43c-d701-4060-ae96-e7d1af565c70" />
+
